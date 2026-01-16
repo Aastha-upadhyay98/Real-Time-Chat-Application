@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GitHub ke liye ek professional **README.md** file niche di gayi hai. Aap isse directly copy-paste kar sakte hain. Isme aapke project ki technicalities aur architecture ko ache se explain kiya gaya hai.
 
 ---
@@ -108,3 +109,7 @@ node index.js
 | **Real-time** | No (Polling required) | Yes (Persistent) 
 
  |
+=======
+# Real-Time-Chat-Application
+This Real-Time Chat App utilizes Node.js and Socket.IO to establish a stateful, bidirectional, and full-duplex connection. It features a Node/Express backend that broadcasts messages via custom events, and a Vanilla JS frontend for dynamic DOM updates.
+>>>>>>> 940a4fe907be5f97b84b36af5de082f12fb4f47b
